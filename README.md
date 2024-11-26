@@ -1,10 +1,10 @@
-# Agoric Orchestration Basics Dapp
+# Agro Swap Dapp
 
 <img src="./images/orca2.png" width="100%" />
 
 ## Overview
 
-The Orchestration Basics dApp showcases various features of the orchestration API running inside of an end-to-end environment, and a user interface:
+A multi agregator + nft minting dapp built on agoric chain.
 
 
 ## Set up the local environment
@@ -35,8 +35,6 @@ Wait for this step to complete (this could take a while!) before you start UI in
 ```sh
 yarn dev
 ```
-
-<img src="./images/ui.png" width="100%" />
 
 --- 
 
@@ -111,5 +109,3 @@ agd tx bank send keplr1 agoric15ch7da0d8nvqc8hk6dguq4ext0lvskpjcwm3patf8sygm63ch
 
 # Interface
 you can run `yarn dev` inside of the `ui` folder. 
-
-<img src="./images/ui.png" width="100%" />
